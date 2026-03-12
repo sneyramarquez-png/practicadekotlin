@@ -1,4 +1,4 @@
-## Parte 1 Variables y Salida 
+## Parte 1 -  Variables y Salida 
 Declara una variable llamada nombre con tu nombre e imprime:
 Hola soy [tu nombre]
 <img width="783" height="497" alt="image" src="https://github.com/user-attachments/assets/044bbb8b-27dc-4fab-8d0d-473bd4c2f4a1" />
@@ -47,6 +47,7 @@ Caso contrario: Hace calor:
 
 
 ## PARTE 3 — Condicional WHEN
+
 Crea una variable día con un número del 1 al 7.
 Usa when para mostrar el día de la semana.
 <img width="622" height="647" alt="image" src="https://github.com/user-attachments/assets/2541bee1-1a03-419c-b219-d04cc9334d0f" />
@@ -79,17 +80,21 @@ según el valor de la nota.
 ## PARTE 4 — Ciclos FOR
 
 Usa for para imprimir los números del 1 al 10.
+
 <img width="526" height="727" alt="image" src="https://github.com/user-attachments/assets/fd5562ad-67c3-45eb-a7e5-d8191b33a53e" />
 
 Usa for para imprimir tu nombre 5 veces.
+
 <img width="537" height="620" alt="image" src="https://github.com/user-attachments/assets/8a0a7136-e8ff-45e0-b07d-f591995d15cb" />
 
 Crea un programa que imprima los números del 1 al 20.
 Pero si el número es par, mostrar:
 Numero par: X
+
 <img width="868" height="747" alt="image" src="https://github.com/user-attachments/assets/42520f28-6130-40fe-b93f-49f9a34d1b23" />
 
 Usa for para sumar los números del 1 al 10 y mostrar el resultado final.
+
 <img width="682" height="483" alt="image" src="https://github.com/user-attachments/assets/14b57470-8e46-41bb-a79d-65ada0b146ee" />
 
 
@@ -104,11 +109,9 @@ Crea un programa que imprima la tabla de multiplicar de un número que elijas us
 <img width="627" height="732" alt="image" src="https://github.com/user-attachments/assets/7b0382b5-7938-4b05-b270-16f42271c9a9" />
 
 Crea un programa que use when para mostrar el nivel de un estudiante según su nota:
-18–20 : Excelente
-14–17: Bueno
-11–13: Regular
-0–10: Reprobado
-<img width="1044" height="526" alt="image" src="https://github.com/user-attachments/assets/f305485e-c6f8-4b72-a39a-826293a97ff1" />
+(18–20 : Excelente  / 14–17: Bueno / 11–13: Regular / 0–10: Reprobado)
+<img width="1044" height="526" alt="image" src="https://github.com/user-attachments/assets/82500dd2-1cd4-4045-924b-813740893822" />
+
 
 
 
