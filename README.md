@@ -109,8 +109,12 @@ Crea un programa que imprima la tabla de multiplicar de un número que elijas us
 <img width="627" height="732" alt="image" src="https://github.com/user-attachments/assets/7b0382b5-7938-4b05-b270-16f42271c9a9" />
 
 Crea un programa que use when para mostrar el nivel de un estudiante según su nota:
+
 (18–20 : Excelente  / 14–17: Bueno / 11–13: Regular / 0–10: Reprobado)
-<img width="1044" height="526" alt="image" src="https://github.com/user-attachments/assets/82500dd2-1cd4-4045-924b-813740893822" />
+
+<img width="592" height="581" alt="image" src="https://github.com/user-attachments/assets/7eb65f21-b36e-4efe-a664-af4de33b6ee0" />
+
+
 
 
 
